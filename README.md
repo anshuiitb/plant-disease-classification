@@ -76,7 +76,6 @@ Sequential([
 
 ## 📌 Future Improvements
 
-- Add data augmentation for better generalization
 - Deploy the model via a web or mobile app
 - Use transfer learning with pre-trained models (e.g., MobileNetV2)
 
