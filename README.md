@@ -45,20 +45,7 @@ Sequential([
 
 ---
 
-## 📂 Folder Structure
 
-```
-📁 plant-disease-classifier/
-├── 📁 dataset/
-│   ├── class_1/
-│   ├── class_2/
-│   └── ...
-├── 📄 model.ipynb
-├── 📄 model.keras
-└── 📄 README.md
-```
-
----
 
 ## 🚀 Getting Started
 
